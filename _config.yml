@@ -1,0 +1,28 @@
+name: 365SaltLake
+favicon: null
+layout_spectrum: 0.9587827632203698
+typography_spectrum: 0.7836037075612694
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.5691227312199771
+  lightness: 0.49091927148401737
+  saturation: 0.18746154592372477
+  rhythmicContrast: 0.9347221171483397
+purpose: []
